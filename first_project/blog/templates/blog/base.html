@@ -29,8 +29,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarToggle">
                     <div class="navbar-nav mr-auto">
-                        <a class="nav-item nav-link" href="/">Home</a>
-                        <a class="nav-item nav-link" href="/about">About</a>
+                        <a class="nav-item nav-link" href="{% url 'blog-home' %}">Home</a>
+                        <a class="nav-item nav-link" href="{% url 'blog-about' %}">About</a>
                     </div>
                     <!-- Navbar Right Side -->
                     <div class="navbar-nav">
@@ -41,10 +41,13 @@
             </div>
         </nav>
     </header>
-
-    <div class="container">
-        {% block content %}{% endblock %}
+<main role="main" class="container">
+    <div class="row">
+        <div class="col-md-8">
+            {% block content %}{% endblock %}
+        </div>
     </div>
+</main>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
