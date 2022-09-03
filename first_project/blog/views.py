@@ -8,3 +8,14 @@ def home(request):
 
 def about(request):
     return render(request, 'blog/about.html', {'title': 'About'})
+
+
+class HomeViewSet():
+    def get(self):
+        pass
+
+    def list(self):
+        pass
+
+    def update(self):
+        pass
