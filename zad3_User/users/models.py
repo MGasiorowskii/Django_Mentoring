@@ -4,6 +4,7 @@ from django.contrib.auth.models import User
 
 class Profile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
+    last_login_failed = models.DateTimeField(null=True, blank=True)
 
     def __str__(self):
         return f"Profile of {self.user.username}"
