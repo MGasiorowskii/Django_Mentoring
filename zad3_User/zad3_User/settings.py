@@ -34,6 +34,8 @@ INSTALLED_APPS = [
     "HomePage.apps.HomepageConfig",
     'users.apps.UsersConfig',
     'customer.apps.CustomerConfig',
+    'API.apps.ApiConfig',
+    "rest_framework",
     "crispy_forms",
     "django.contrib.admin",
     "django.contrib.auth",
