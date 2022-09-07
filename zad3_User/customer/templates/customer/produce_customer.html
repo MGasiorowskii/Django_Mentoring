@@ -1,0 +1,12 @@
+{% extends 'HomePage/base.html' %}
+
+{% block content %}
+  <h1>Produce Customer</h1>
+
+  <form method="POST">
+    {% csrf_token %}
+    <div class="form-group">
+        <button class="btn btn-outline-info" type="submit">Generate customer</button>
+    </div>
+  </form>
+{% endblock %}

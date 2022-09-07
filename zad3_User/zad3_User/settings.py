@@ -33,6 +33,9 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     "HomePage.apps.HomepageConfig",
     'users.apps.UsersConfig',
+    'customer.apps.CustomerConfig',
+    'API.apps.ApiConfig',
+    "rest_framework",
     "crispy_forms",
     "django.contrib.admin",
     "django.contrib.auth",
@@ -126,5 +129,7 @@ STATIC_URL = "static/"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
-LOGIN_REDIRECT_URL = 'homepage'
+LOGIN_REDIRECT_URL = 'profile'
 LOGIN_URL = 'login'
+
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'  # During development only
