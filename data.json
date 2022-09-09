@@ -1,0 +1,664 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 880,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "x38uAQAAIAAJ",
+      "etag": "xjAkj0FcDa0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x38uAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Vietnam War",
+        "authors": [
+          "Tom Pendergast"
+        ],
+        "publisher": "Omnigraphics Incorporated",
+        "publishedDate": "2007",
+        "description": "Provides users with a detailed and authoritative overview of this event, as well as the principal figures involved in this pivotal episode in U.S. history.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105123218740"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 271,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x38uAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x38uAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=x38uAQAAIAAJ&q=war&dq=war&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=x38uAQAAIAAJ&dq=war&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Vietnam_War.html?hl=&id=x38uAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x38uAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Perfect \u003cb\u003eWar\u003c/b\u003e : The \u003cb\u003eWar\u003c/b\u003e We Couldn &#39; t Lose and How We Did . Boston : Atlantic Monthly Press , 1986 . Gilbert , Marc Jason , ed . Why the North Won the Vietnam \u003cb\u003eWar\u003c/b\u003e . New York : Palgrave , 2002 . Hay , Jeff , ed . Richard M . Nixon ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pkMsAQAAIAAJ",
+      "etag": "EvL0xutSr8I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pkMsAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Greenwood Library of American War Reporting: World War I & World War II, the European Theater",
+        "authors": [
+          "Ross F. Collins",
+          "Patrick S. Washburn"
+        ],
+        "publisher": "Greenwood",
+        "publishedDate": "2005",
+        "description": "Violent, destructive, and murderous like nothing before or since, the world wars mobilized entire societies to support the war effort. Propaganda, censorship, security demands, and military control of press credentialing pressured the media in new and novel ways. Blacks and women became war correspondents in numbers for the first time, while live radio broadcasts and combat film and photography enabled newsmen to report the heroism, tragedy and violence of war in new, more visceral, ways.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105128360141"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 530,
+        "printType": "BOOK",
+        "categories": [
+          "Military history, Modern"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pkMsAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pkMsAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=pkMsAQAAIAAJ&q=war&dq=war&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=pkMsAQAAIAAJ&dq=war&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Greenwood_Library_of_American_War_Re.html?hl=&id=pkMsAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pkMsAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE GREEIVWOOD LIBRARY OF AMERICAN WAD REPORTING Volume 1 : The French and Indian \u003cb\u003eWar\u003c/b\u003e; The Revolutionary \u003cb\u003eWar\u003c/b\u003e (David A. Copeland; Carol Sue Humphrey) Volume 2: The \u003cb\u003eWar\u003c/b\u003e of 1812; The Mexican-American \u003cb\u003eWar\u003c/b\u003e (David A. Copeland and Carol Sue&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cJwkbqQoDNcC",
+      "etag": "MCboHeDDF/g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cJwkbqQoDNcC",
+      "volumeInfo": {
+        "title": "Naval War College Review",
+        "authors": [
+          "Naval War College (U.S.)"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015005442762"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "International relations"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cJwkbqQoDNcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cJwkbqQoDNcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=cJwkbqQoDNcC&q=war&dq=war&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=cJwkbqQoDNcC&dq=war&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Naval_War_College_Review.html?hl=&id=cJwkbqQoDNcC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cJwkbqQoDNcC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A geographically limited conventional \u003cb\u003ewar\u003c/b\u003e remote from Europe, possibly resulting from each side intervening in a \u003cb\u003ewar\u003c/b\u003e between two client states. Such a \u003cb\u003ewar\u003c/b\u003e would differ from Korea or Vietnam in that U.S. forces would be in direct&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jr5HAAAAIAAJ",
+      "etag": "ntJ+qPxfgFI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jr5HAAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Man-of-war's Man's Manual, United States Navy",
+        "authors": [
+          "William Freeland Fullam"
+        ],
+        "publishedDate": "1928",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B278632"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jr5HAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jr5HAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=jr5HAAAAIAAJ&q=war&dq=war&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=jr5HAAAAIAAJ&dq=war&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Man_of_war_s_Man_s_Manual_United_Sta.html?hl=&id=jr5HAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jr5HAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "William Freeland Fullam. --• ...--\\ ! , ======EM-V)===- The Man-Of-\u003cb\u003eWar&#39;s\u003c/b\u003e Man&#39;s Manual United States 2Xavy F - j."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ejZGAQAAIAAJ",
+      "etag": "t3w7j7J4a8Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ejZGAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The War's Best Photographs",
+        "subtitle": "Pictorial Masterpieces of the Greatest Struggle the World Has Known",
+        "authors": [
+          "Odhams Press ltd"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4007195"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "World War, 1939-1945"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ejZGAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ejZGAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=ejZGAQAAIAAJ&q=war&dq=war&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=ejZGAQAAIAAJ&dq=war&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_War_s_Best_Photographs.html?hl=&id=ejZGAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ejZGAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s0NLAAAAYAAJ",
+      "etag": "eWQ8h8ZCTyw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s0NLAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Papers of the Military Historical Society of Massachusetts: Civil and Mexican Wars 1861, 1846",
+        "publishedDate": "1989",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X001811279"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Military history"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s0NLAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s0NLAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=s0NLAAAAYAAJ&q=war&dq=war&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=s0NLAAAAYAAJ&dq=war&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Papers_of_the_Military_Historical_Societ.html?hl=&id=s0NLAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s0NLAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the United States \u003cb\u003ewar\u003c/b\u003e is regarded as a deplorable emergency , to be met when it comes by a resort to such measures of offence and defence as are at the time available . Russia and Japan , holding a diametrically opposite view&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F59tAAAAMAAJ",
+      "etag": "WvxPN2Y35Ag",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F59tAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Origins of the Arab-Israeli Wars",
+        "authors": [
+          "Ritchie Ovendale"
+        ],
+        "publisher": "Addison-Wesley Longman Limited",
+        "publishedDate": "1992",
+        "description": "This second edition views the complex and controversial history of the Arab-Israeili conflict. Completely revised and updated it takes into account current events in the area such as the Palestinian uprising, (the intifada) and the Gulf War. The text aims to provide a balanced introduction to this immensely complex and controversial subject. For this edition it the text has been completely redesigned and reset for clarity and aims to incorporate the very latest research in the field. and international politics and Middle Eastern Studies. Professional readers such as journalists, politicians and business-people as well as the informed general reader should also find it useful.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015026813793"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F59tAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F59tAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=F59tAAAAMAAJ&q=war&dq=war&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=F59tAAAAMAAJ&dq=war&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Origins_of_the_Arab_Israeli_Wars.html?hl=&id=F59tAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F59tAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "and Baghdad Pact, 157-9 in First World \u003cb\u003eWar\u003c/b\u003e, 19-25, 26, 45 and USA, 156-7 see also Ottoman Empire Turkish Petroleum Company, 51, 67 U Thant, 201, 210 Uganda, as Jewish homeland, 7-8 Unified National Leadership of the Uprising (UNLU),&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QCegAAAAMAAJ",
+      "etag": "ZG7gV0ieyL0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QCegAAAAMAAJ",
+      "volumeInfo": {
+        "title": "How Wars Begin",
+        "authors": [
+          "Alan John Percivale Taylor"
+        ],
+        "publisher": "Holiday House",
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:39000002406150"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QCegAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QCegAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=QCegAAAAMAAJ&q=war&dq=war&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=QCegAAAAMAAJ&dq=war&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_Wars_Begin.html?hl=&id=QCegAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QCegAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... declaration of , 25 Plombières , 58 Poincaré , Raymond , 106 Poland , 15 , 170 Polish - German \u003cb\u003ewar\u003c/b\u003e , 126 Polish succession , \u003cb\u003ewar\u003c/b\u003e of , 18 Pompadour , Mme de , 20 Potsdam , 105 ; conference at , 166 Princip , Gavrilo , 103 , 104 India&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HT8K20a-hbsC",
+      "etag": "F7LY4ipEWk8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HT8K20a-hbsC",
+      "volumeInfo": {
+        "title": "New Arrivals in American Local History and Genealogy, Quarterly List",
+        "authors": [
+          "Sutro Library"
+        ],
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCLA:L0080150048"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Genealogy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HT8K20a-hbsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HT8K20a-hbsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=HT8K20a-hbsC&pg=RA3-PA15&dq=war&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=HT8K20a-hbsC&dq=war&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/New_Arrivals_in_American_Local_History_a.html?hl=&id=HT8K20a-hbsC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HT8K20a-hbsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CWvgAAAAMAAJ",
+      "etag": "WI3KjJjseDM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CWvgAAAAMAAJ",
+      "volumeInfo": {
+        "title": "A London Bibliography of the Social Sciences",
+        "publishedDate": "1931",
+        "description": "Vols. 1-4 include material to June 1, 1929.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015079896125"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Catalogs, Subject"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CWvgAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CWvgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=CWvgAAAAMAAJ&pg=PA920&dq=war&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=CWvgAAAAMAAJ&dq=war&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_London_Bibliography_of_the_Social_Scie.html?hl=&id=CWvgAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CWvgAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
