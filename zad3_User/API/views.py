@@ -1,18 +1,26 @@
+import django.template.backends.django
 from rest_framework.viewsets import generics
 from .serializers import BookSerializer
 from .models import Book
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
+from rest_framework.mixins import ListModelMixin
 import requests
+from rest_framework.filters import OrderingFilter
+from django_filters.rest_framework import DjangoFilterBackend
 
 
 class GetAllBooks(generics.ListAPIView):
     serializer_class = BookSerializer
     queryset = Book.objects.all()
+    filter_backends = [DjangoFilterBackend, OrderingFilter]
+
+    filterset_fields = ["title", "authors", "published_date", "categories", "thumbnail"]
+    ordering_fields = ["title", "authors", "published_date", "categories", "thumbnail"]
 
 
-class UpdateDataBase(APIView):
+class UpdateDataBase(APIView, ListModelMixin):
 
     def post(self, request):
         if request.data:
@@ -46,12 +54,7 @@ class UpdateDataBase(APIView):
         return Response(status=status.HTTP_400_BAD_REQUEST)
 
 
-class DetailBook(APIView):
-
-    def get(self, request, bookId):
-        queryset = Book.objects.all().get(book_id=bookId)
-        serializer = BookSerializer(queryset)
-
-        return Response(serializer.data)
-
-
+class DetailBook(generics.RetrieveAPIView):
+    lookup_field = "book_id"
+    serializer_class = BookSerializer
+    queryset = Book

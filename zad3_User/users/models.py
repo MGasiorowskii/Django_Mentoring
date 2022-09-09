@@ -1,10 +1,9 @@
 from django.db import models
-from django.contrib.auth.models import User
+from django.contrib.auth.models import AbstractUser
 
 
-class Profile(models.Model):
-    user = models.OneToOneField(User, on_delete=models.CASCADE)
+class User(AbstractUser):
+    #user = models.OneToOneField(User, on_delete=models.CASCADE)tdj
     last_login_failed = models.DateTimeField(null=True, blank=True)
+    bio = models.TextField(max_length=1000, blank=True)
 
-    def __str__(self):
-        return f"Profile of {self.user.username}"
